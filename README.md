@@ -1,4 +1,4 @@
-# SVHN-data
+# SVHN-data-image-recognition-in-Python
 Different models will be used for this set of data to find the final proper model. 
 The work is still in progress.
 1. The first model is a simple 5-layer CNN. There is no validation set in this version, only training and test sets exist.
